@@ -56,3 +56,6 @@ Your algorithm should find the **shortest path from the start to the destination
   - Keep your code modular and readable
 
 
+### Resource
+You can follow the link bellow to set your SSH keys to your github account:
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-SSH-Windows-Example 
